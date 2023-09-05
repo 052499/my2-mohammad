@@ -1,6 +1,6 @@
 # my2-mohammad
 # Mohammad Khalida Parveen
-###### shimla
+###### Shimla
 
 It gained popularity as a **summer resort** because of its **cool** climate and scenic setting, and from 1865 to 1939 it served as India’s summer capital. 
 
@@ -10,4 +10,7 @@ It gained popularity as a **summer resort** because of its **cool** climate and 
 3. Trekking
 4. Shoppping At Lakkar Bazar
 
-
+### Food we can get at Shimla
+* Chicken Anardana
+* Chha Gosht
+* Madra
