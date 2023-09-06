@@ -25,3 +25,14 @@ The table below provides 4 different sports, the reasons behind playing and the 
 # Code Fencing 
 **Get the current URL with JavaScript?** </br>
 go to StackOverflow : <https://stackoverflow.com/questions/052499/get-the-current-url-with-jquery>
+
+```
+$.preloadImages = function() {
+  for (var i = 0; i < arguments.length; i++) {
+    $("<img />").attr("src", arguments[i]);
+  }
+}
+
+$.preloadImages("hoverimage1.jpg","hoverimage2.jpg");
+
+```
