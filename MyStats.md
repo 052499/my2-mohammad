@@ -36,3 +36,6 @@ $.preloadImages = function() {
 $.preloadImages("hoverimage1.jpg","hoverimage2.jpg");
 
 ```
+
+
+go to snippet source : <https://css-tricks.com/snippets/jquery/image-preloader//>
