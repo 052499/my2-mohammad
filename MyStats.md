@@ -1,4 +1,4 @@
 # Mohammad Khalida Parveen
 I am  pursuing master's degree at Northwest Missouri State University. I like Cooking and trekking. I was  a nature lover. I love to read books and novels my favourite author is "Chetan Bhagat". 
 
-![Img](Documents/GitHub/my2-mohammad/Img.jpg)
+![Img]((Documents/https://github.com/my2-mohammad/image/img.jpg)
