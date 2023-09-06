@@ -20,3 +20,5 @@ The table below provides 4 different sports, the reasons behind playing and the 
 # Quotes by Famous Scientists
 > "Nothing in life is to be feared, it is only to be understood. Now is the time to understand more, so that we may fear less." - ***Marie Curie*** <br/>
 > "Imagination is more important than knowledge" - *** Albert Einstein***
+
+# Code Fencing 
