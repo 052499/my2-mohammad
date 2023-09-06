@@ -6,6 +6,7 @@ I am  pursuing master's degree at Northwest Missouri State University. I like Co
 
 [MyStats](https://github.com/052499/my2-mohammad/blob/main/MyStats.md)
 
+ 
 # Sports 
 
 The table below provides 4 different sports, the reasons behind playing and the hours spent playing it.
@@ -22,3 +23,5 @@ The table below provides 4 different sports, the reasons behind playing and the 
 > "Imagination is more important than knowledge" - *** Albert Einstein***
 
 # Code Fencing 
+**Get the current URL with JavaScript?** </br>
+go to StackOverflow : <https://stackoverflow.com/questions/052499/get-the-current-url-with-jquery>
